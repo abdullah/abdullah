@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://visitors.markupgo.com/abdullah/count.svg" width="200"  />
+</p>
 
 <!--
 **abdullah/abdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
