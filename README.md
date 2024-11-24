@@ -1,6 +1,6 @@
 <p align="center"> 
   Visitor count<br>
-  <img src="https://visitors.markupgo.com/abdullah/count.svg" width="200"  />
+  <img src="https://visitors.markupgo.com/abdullah/count.svg?1" width="200"  />
 </p>
 
 <!--
